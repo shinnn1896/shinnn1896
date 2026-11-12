@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Raffi Arjuna Putra WIjaya and I'm Beginner Web Developer, from Indonesia. Current learning focus: Web Development & Linux Environment.<br>Project Links:<br>1. <a href="https://static-web-portfolio-1.shinnn1896.vercel.app/">Live</a> / <a href="https://github.com/shinnn1896/static-web-portfolio-1">Code</a></p>
+<p data-importer="text" align="left">My name is Raffi Arjuna Putra Wijaya and I'm a Beginner Web Developer from Indonesia. Current learning focus: Web Development & Linux Environment.<br>Project Links:<br>1. <a href="https://static-web-portfolio-1.shinnn1896.vercel.app/">Live</a> / <a href="https://github.com/shinnn1896/static-web-portfolio-1">Code</a></p>
 
 ###
 
